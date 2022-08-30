@@ -1,3 +1,5 @@
+//desafio de sentença de bloco, onde um bloco irá imprimir valores impares e o outro valores pares.
+
 {
     console.log(1);
     console.log(3);

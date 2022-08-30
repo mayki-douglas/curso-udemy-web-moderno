@@ -1,3 +1,5 @@
+//script onde iremos imprimir os tipos de dados em si
+
 let idade = 30;
 
 console.log(typeof 30);

@@ -36,6 +36,12 @@ Conceitos básicos em Javascript, onde se entende os dados e alguns desafios, co
  *Objetos em JS*<br>
  *Conceito de Null e Undefined*<br>
  *Introdução a funções*<br>
+ *entendendo os nomes reservados do Javascript (Var, Let)*<br>
+ *Conceito de Hoisting*<br>
+ *sobre o par Nome e Valor*<br>
+ *Notação ponto em JS*<br>
+ *Atribuições em JS*<br>
+ *Desestruturando objetos (Destructuring)*<br>
 
  ## Considerações finais
 
